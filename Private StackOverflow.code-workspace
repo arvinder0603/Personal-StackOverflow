@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/GitHub/Your-Private-StackOverflow/static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Private StackOverflow"
+	}
+}
